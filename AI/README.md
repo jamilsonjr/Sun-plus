@@ -17,10 +17,17 @@ Para fazer este "forecast" utlilizamos 2 métodos distintos:
 
 ## Resultados
 
-<p align="center">
-  <img height="400px" src="https://user-images.githubusercontent.com/47533831/115143096-322a1500-a03d-11eb-8b66-418e99f25b4c.png" />
-</p>
+Em baixo, temos o resultado da previsão de consumo de uma instituição para um dado dia. É possível ver também o valor real.
 
 <p align="center">
-  <img height="400px" src="https://user-images.githubusercontent.com/47533831/115143124-5a197880-a03d-11eb-957f-bfab48a51ffc.png" />
+  <img height="350px" src="https://user-images.githubusercontent.com/47533831/115143096-322a1500-a03d-11eb-8b66-418e99f25b4c.png" />
+</p>
+
+De seguida, apresentamos todos os resultados do nosso modelo:
+- Previsão da produção PV;
+- Previsão do consumo da instituição;
+- Surplus existente nesse dia.
+
+<p align="center">
+  <img height="350px" src="https://user-images.githubusercontent.com/47533831/115143124-5a197880-a03d-11eb-957f-bfab48a51ffc.png" />
 </p>
