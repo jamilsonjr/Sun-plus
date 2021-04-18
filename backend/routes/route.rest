@@ -1,0 +1,27 @@
+GET http://localhost:3000/subscribers
+
+### 
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+    "name": "Jamilson",
+    "subscriberEVs": [
+        {
+            "name": "Tesla Modal S",
+            "brand": "Tesla",
+            "BatteryMaximumCapacity": "100",
+            "StateOfCharge": "80"
+        }
+    ],
+    "subscriberCreditCards": [
+            {
+               "number": "378932789328324",
+               "expires": "04/22",
+               "CVV2": "883" 
+            }
+        ]
+}
+
+###
+DELETE http://localhost:3000/subscribers/607b594165820f069d71704c
