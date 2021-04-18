@@ -16,4 +16,6 @@ Para fazer este "forecast" utlilizamos 2 métodos distintos:
 - Long Short-Term Memory: algoritmo de Machine Learning. 
   
 ## Resultados
-  
+<p align="center">
+  <img height="400px" src="![image](https://user-images.githubusercontent.com/47533831/115143010-b203af80-a03c-11eb-88f8-b91d439fd2fd.png)" />
+</p>
