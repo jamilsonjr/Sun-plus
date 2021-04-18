@@ -14,8 +14,6 @@ Estes modelos foram desenvolvidos em:
 Para fazer este "forecast" utlilizamos 2 métodos distintos:
 - AutoRegressão: método de regressão linear;
 - Long Short-Term Memory: algoritmo de Machine Learning. 
-  
+
 ## Resultados
-<p align="center">
-  <img height="400px" src="![image](https://user-images.githubusercontent.com/47533831/115143010-b203af80-a03c-11eb-88f8-b91d439fd2fd.png)" />
-</p>
+![image](https://user-images.githubusercontent.com/47533831/115143096-322a1500-a03d-11eb-8b66-418e99f25b4c.png)
